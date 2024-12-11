@@ -6,4 +6,4 @@ Aplicación hecha en Streamlit que carga un modelo previamente entrenado (Random
 
 <img src="img/mascotas.png" width="400">
 
-* Enlace a la web desplegada: https://classipet.streamlit.app/
+* Enlace a la web desplegada: <https://classipet.streamlit.app/>
